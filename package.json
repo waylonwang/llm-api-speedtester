@@ -1,0 +1,29 @@
+{
+  "name": "llm-api-speedtester",
+  "version": "1.0.0",
+  "description": "LLM API Speed & Latency Test Tool",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "llm",
+    "api",
+    "performance",
+    "testing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnMing143/llm-api-speedtester.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JohnMing143/llm-api-speedtester/issues"
+  },
+  "homepage": "https://github.com/JohnMing143/llm-api-speedtester#readme"
+}

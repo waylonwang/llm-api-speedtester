@@ -1,0 +1,1537 @@
+{
+  "providers": [
+    {
+      "name": "CLIProxyApi",
+      "baseUrl": "http://localhost:8317/v1",
+      "defaultToken": "srRLhjjT547C1oDsmPuNG9ZrN8Zz37O9",
+      "notes": "",
+      "id": "1771042721063",
+      "createdAt": "2026-02-14T04:18:41.063Z",
+      "updatedAt": "2026-02-14T08:37:06.597Z"
+    },
+    {
+      "name": "iflow",
+      "baseUrl": "https://apis.iflow.cn/v1",
+      "defaultToken": "",
+      "notes": "",
+      "id": "1771055886145",
+      "createdAt": "2026-02-14T07:58:06.145Z",
+      "updatedAt": "2026-02-14T08:00:46.229Z"
+    },
+    {
+      "name": "DeepSeek",
+      "baseUrl": "https://api.deepseek.com/v1",
+      "defaultToken": "sk-fde3c5e583c84bccb093f140126e3cf8",
+      "notes": "",
+      "id": "1771056403009",
+      "createdAt": "2026-02-14T08:06:43.009Z",
+      "updatedAt": "2026-02-14T08:08:20.307Z"
+    },
+    {
+      "name": "Zai",
+      "baseUrl": "https://open.bigmodel.cn/api/coding/paas/v4",
+      "defaultToken": "a923866dd0f244b98f4baaf27f2c1478.zrMADjnoPHMY2a8D",
+      "notes": "",
+      "id": "1771124020264",
+      "createdAt": "2026-02-15T02:53:40.264Z"
+    }
+  ],
+  "apis": [
+    {
+      "providerId": "1771042721063",
+      "name": "GLM 5",
+      "modelName": "glm-5",
+      "fullUrl": "",
+      "token": "",
+      "tags": [
+        "GLM"
+      ],
+      "id": "1771046224932",
+      "createdAt": "2026-02-14T05:17:04.932Z",
+      "updatedAt": "2026-02-14T15:45:10.792Z"
+    },
+    {
+      "providerId": "1771042721063",
+      "name": "GLM 4.7",
+      "modelName": "glm-4.7",
+      "fullUrl": "",
+      "token": "",
+      "tags": [
+        "GLM"
+      ],
+      "id": "1771046286872",
+      "createdAt": "2026-02-14T05:18:06.872Z",
+      "updatedAt": "2026-02-14T15:45:20.413Z"
+    },
+    {
+      "providerId": "1771042721063",
+      "name": "Kimi K2.5",
+      "modelName": "kimi-k2.5",
+      "fullUrl": "",
+      "token": "",
+      "tags": [
+        "Kimi"
+      ],
+      "id": "1771046346342",
+      "createdAt": "2026-02-14T05:19:06.342Z",
+      "updatedAt": "2026-02-15T01:25:10.481Z"
+    },
+    {
+      "providerId": "1771042721063",
+      "name": "QWen3 Max",
+      "modelName": "qwen3-max",
+      "fullUrl": "",
+      "token": "",
+      "tags": [
+        "QWen"
+      ],
+      "id": "1771046393367",
+      "createdAt": "2026-02-14T05:19:53.367Z",
+      "updatedAt": "2026-02-14T15:45:31.555Z"
+    },
+    {
+      "providerId": "1771042721063",
+      "name": "MiniMax M2.5",
+      "modelName": "minimax-m2.5",
+      "fullUrl": "",
+      "token": "",
+      "tags": [
+        "MiniMax"
+      ],
+      "id": "1771046428932",
+      "createdAt": "2026-02-14T05:20:28.932Z",
+      "updatedAt": "2026-02-15T01:07:03.129Z"
+    },
+    {
+      "providerId": "1771056403009",
+      "name": "DeepSeek V3.2",
+      "modelName": "deepseek-chat",
+      "fullUrl": "",
+      "token": "",
+      "tags": [
+        "DeepSeek"
+      ],
+      "id": "1771056494636",
+      "createdAt": "2026-02-14T08:08:14.636Z",
+      "updatedAt": "2026-02-14T15:46:04.691Z"
+    },
+    {
+      "providerId": "1771055886145",
+      "name": "Qwen3 Coder Plus",
+      "modelName": "qwen3-coder-plus",
+      "fullUrl": "",
+      "token": "",
+      "tags": [
+        "QWen"
+      ],
+      "id": "1771056562617",
+      "createdAt": "2026-02-14T08:09:22.617Z",
+      "updatedAt": "2026-02-14T15:45:47.839Z"
+    },
+    {
+      "providerId": "1771055886145",
+      "name": "QWen3 Max",
+      "modelName": "qwen3-max",
+      "fullUrl": "",
+      "token": "",
+      "tags": [
+        "QWen"
+      ],
+      "id": "1771056602112",
+      "createdAt": "2026-02-14T08:10:02.112Z",
+      "updatedAt": "2026-02-14T15:45:52.881Z"
+    },
+    {
+      "providerId": "1771042721063",
+      "name": "DeepSeek v3.2",
+      "modelName": "deepseek-v3.2",
+      "fullUrl": "",
+      "token": "",
+      "tags": [
+        "DeepSeek"
+      ],
+      "id": "1771057446256",
+      "createdAt": "2026-02-14T08:24:06.256Z",
+      "updatedAt": "2026-02-14T15:45:38.420Z"
+    },
+    {
+      "providerId": "1771055886145",
+      "name": "Kimi K2 Instruct 0905",
+      "modelName": "kimi-k2-0905",
+      "fullUrl": "",
+      "token": "",
+      "tags": [
+        "Kimi"
+      ],
+      "id": "1771083680768",
+      "createdAt": "2026-02-14T15:41:20.768Z",
+      "updatedAt": "2026-02-14T15:45:57.672Z"
+    },
+    {
+      "providerId": "1771124020264",
+      "name": "GLM 5",
+      "modelName": "glm-5",
+      "fullUrl": "",
+      "token": "",
+      "tags": [
+        "GLM"
+      ],
+      "id": "1771124068984",
+      "createdAt": "2026-02-15T02:54:28.984Z"
+    },
+    {
+      "providerId": "1771124020264",
+      "name": "GLM 4.7",
+      "modelName": "glm-4.7",
+      "fullUrl": "",
+      "token": "",
+      "tags": [
+        "GLM"
+      ],
+      "id": "1771124092404",
+      "createdAt": "2026-02-15T02:54:52.404Z"
+    }
+  ],
+  "history": [
+    {
+      "type": "single",
+      "apiUrl": "https://api.deepseek.com/v1/chat/completions",
+      "modelName": "deepseek-chat",
+      "throughputData": {
+        "128_128": 33.1373214680325,
+        "128_256": 37.576501524734,
+        "128_512": 35.22921762720051,
+        "128_1024": 41.256823096762304,
+        "128_2048": 43.43710666811709,
+        "256_128": 34.553912055576106,
+        "256_256": 43.200976685066195,
+        "256_512": 41.48231061312018,
+        "256_1024": 28.388011975569484,
+        "256_2048": 41.969147128952756,
+        "512_128": 42.5085287078641,
+        "512_256": 41.42949642663244,
+        "512_512": 44.95491525627757,
+        "512_1024": 37.085401740251115,
+        "512_2048": 41.87741639315014,
+        "1024_128": 32.877766876176096,
+        "1024_256": 34.75159019281485,
+        "1024_512": 41.912606680806796,
+        "1024_1024": 42.55164056018012,
+        "1024_2048": 37.64829295561357,
+        "2048_128": 37.09486650200522,
+        "2048_256": 43.605147137230176,
+        "2048_512": 38.39067320286118,
+        "2048_1024": 38.454598862716495,
+        "2048_2048": 34.9313466048175
+      },
+      "latencyData": {
+        "128_128": 0.9281499999761581,
+        "128_256": 0.7808000000715256,
+        "128_512": 0.8391000000238418,
+        "128_1024": 0.7261999999284744,
+        "128_2048": 0.7162000000476838,
+        "256_128": 0.7987500000000001,
+        "256_256": 0.6845499999523164,
+        "256_512": 0.63175,
+        "256_1024": 1.001399999976158,
+        "256_2048": 0.8463999999761581,
+        "512_128": 0.7903500000238419,
+        "512_256": 0.7964500000476837,
+        "512_512": 0.5925999999046325,
+        "512_1024": 0.88875,
+        "512_2048": 0.8561999999284744,
+        "1024_128": 1.0338999999761582,
+        "1024_256": 0.8038999999761581,
+        "1024_512": 0.8963000000715255,
+        "1024_1024": 0.9125500000715256,
+        "1024_2048": 0.8100000001192094,
+        "2048_128": 1.0900499999523163,
+        "2048_256": 0.6997000000476837,
+        "2048_512": 0.5491999999284745,
+        "2048_1024": 0.9107999999523162,
+        "2048_2048": 0.6948500000238419
+      },
+      "avgThroughput": 38.81222467770114,
+      "avgLatency": 0.8111559999990464,
+      "error": false,
+      "id": "1771127122890",
+      "timestamp": "2026-02-15T03:45:22.890Z"
+    },
+    {
+      "type": "batch",
+      "name": "批量测试",
+      "timestamp": "2026-02-15T02:55:47.729Z",
+      "results": [
+        {
+          "name": "GLM 5",
+          "modelName": "glm-5",
+          "avgThroughput": null,
+          "avgLatency": null
+        },
+        {
+          "name": "GLM 4.7",
+          "modelName": "glm-4.7",
+          "avgThroughput": 6.19868073159554,
+          "avgLatency": 0.6763200000047684
+        }
+      ],
+      "id": "1771124147729"
+    },
+    {
+      "type": "single",
+      "apiUrl": "https://apis.iflow.cn/v1/chat/completions",
+      "modelName": "qwen3-max",
+      "throughputData": {
+        "128_128": 0,
+        "128_256": 0,
+        "128_512": 0,
+        "128_1024": 0,
+        "128_2048": 0,
+        "256_128": 0,
+        "256_256": 0,
+        "256_512": 0,
+        "256_1024": 0,
+        "256_2048": 0,
+        "512_128": 0,
+        "512_256": 0,
+        "512_512": 0,
+        "512_1024": 0,
+        "512_2048": 0,
+        "1024_128": 0,
+        "1024_256": 0,
+        "1024_512": 0,
+        "1024_1024": 0,
+        "1024_2048": 0,
+        "2048_128": 0,
+        "2048_256": 0,
+        "2048_512": 0,
+        "2048_1024": 0,
+        "2048_2048": 0
+      },
+      "latencyData": {
+        "128_128": 0.21595000004768372,
+        "128_256": 0.20725,
+        "128_512": 0.18905000007152556,
+        "128_1024": 0.19,
+        "128_2048": 0.20669999992847443,
+        "256_128": 0.34750000000000003,
+        "256_256": 0.20525,
+        "256_512": 0.14064999997615812,
+        "256_1024": 0.16564999997615815,
+        "256_2048": 0.14044999992847443,
+        "512_128": 0.19169999992847442,
+        "512_256": 0.15925,
+        "512_512": 0.1387999999523163,
+        "512_1024": 0.15769999992847444,
+        "512_2048": 0.14319999992847443,
+        "1024_128": 0.14514999997615813,
+        "1024_256": 0.15235000002384186,
+        "1024_512": 0.13630000007152557,
+        "1024_1024": 0.16044999992847442,
+        "1024_2048": 0.15935000002384186,
+        "2048_128": 0.158,
+        "2048_256": 0.19689999997615815,
+        "2048_512": 0.16339999997615814,
+        "2048_1024": 0.1422499998807907,
+        "2048_2048": 0.16389999997615814
+      },
+      "avgThroughput": 0,
+      "avgLatency": 0.17508599997997287,
+      "error": false,
+      "id": "1771122948224",
+      "timestamp": "2026-02-15T02:35:48.224Z"
+    },
+    {
+      "type": "single",
+      "apiUrl": "https://apis.iflow.cn/v1/chat/completions",
+      "modelName": "qwen3-coder-plus",
+      "throughputData": {
+        "128_128": 0,
+        "128_256": 0,
+        "128_512": 0,
+        "128_1024": 0,
+        "128_2048": 0,
+        "256_128": 0,
+        "256_256": 0,
+        "256_512": 0,
+        "256_1024": 0,
+        "256_2048": 0,
+        "512_128": 0,
+        "512_256": 0,
+        "512_512": 0,
+        "512_1024": 0,
+        "512_2048": 0,
+        "1024_128": 0,
+        "1024_256": 0,
+        "1024_512": 0,
+        "1024_1024": 0,
+        "1024_2048": 0,
+        "2048_128": 0,
+        "2048_256": 0,
+        "2048_512": 0,
+        "2048_1024": 0,
+        "2048_2048": 0
+      },
+      "latencyData": {
+        "128_128": 0.3213000000715256,
+        "128_256": 0.2305,
+        "128_512": 0.1348000000715256,
+        "128_1024": 0.21720000004768372,
+        "128_2048": 0.1289500000476837,
+        "256_128": 0.23249999999999998,
+        "256_256": 0.2297000000476837,
+        "256_512": 0.16599999999999998,
+        "256_1024": 0.16244999992847442,
+        "256_2048": 0.14070000004768374,
+        "512_128": 0.14489999997615816,
+        "512_256": 0.15770000004768372,
+        "512_512": 0.24844999992847444,
+        "512_1024": 0.1855,
+        "512_2048": 0.16254999995231628,
+        "1024_128": 0.24764999997615814,
+        "1024_256": 0.19639999997615815,
+        "1024_512": 0.28575,
+        "1024_1024": 0.18025000000000002,
+        "1024_2048": 0.13264999997615814,
+        "2048_128": 0.16975,
+        "2048_256": 0.19410000002384187,
+        "2048_512": 0.162,
+        "2048_1024": 0.15155000007152558,
+        "2048_2048": 0.16139999997615814
+      },
+      "avgThroughput": 0,
+      "avgLatency": 0.18978800000667576,
+      "error": false,
+      "id": "1771122819746",
+      "timestamp": "2026-02-15T02:33:39.746Z"
+    },
+    {
+      "type": "batch",
+      "name": "批量测试",
+      "timestamp": "2026-02-15T01:52:37.413Z",
+      "results": [
+        {
+          "name": "GLM 5",
+          "modelName": "glm-5",
+          "avgThroughput": 2.986773368496464,
+          "avgLatency": 1.4316800000429155
+        },
+        {
+          "name": "GLM 4.7",
+          "modelName": "glm-4.7",
+          "avgThroughput": 2.6195334668288415,
+          "avgLatency": 0.29273999996185307
+        },
+        {
+          "name": "Kimi K2.5",
+          "modelName": "kimi-k2.5",
+          "avgThroughput": 6.941427619987991,
+          "avgLatency": 0.7861700000286103
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": 26.66463142330424,
+          "avgLatency": 1.0173900000095366
+        },
+        {
+          "name": "MiniMax M2.5",
+          "modelName": "minimax-m2.5",
+          "avgThroughput": 3.347140287330577,
+          "avgLatency": 2.937390000081062
+        },
+        {
+          "name": "DeepSeek V3.2",
+          "modelName": "deepseek-chat",
+          "avgThroughput": 38.433134700201244,
+          "avgLatency": 0.9111999999284744
+        },
+        {
+          "name": "Qwen3 Coder Plus",
+          "modelName": "qwen3-coder-plus",
+          "avgThroughput": null,
+          "avgLatency": 0.20213000001907347
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.16409999997615815
+        },
+        {
+          "name": "DeepSeek v3.2",
+          "modelName": "deepseek-v3.2",
+          "avgThroughput": 41.95015015691229,
+          "avgLatency": 0.5234900000333786
+        },
+        {
+          "name": "Kimi K2 Instruct 0905",
+          "modelName": "kimi-k2-0905",
+          "avgThroughput": null,
+          "avgLatency": 0.18854999995231628
+        }
+      ],
+      "id": "1771120357413"
+    },
+    {
+      "type": "batch",
+      "name": "批量测试",
+      "timestamp": "2026-02-15T01:30:13.644Z",
+      "results": [
+        {
+          "name": "GLM 5",
+          "modelName": "glm-5",
+          "avgThroughput": null,
+          "avgLatency": 2.3079000000953673
+        },
+        {
+          "name": "GLM 4.7",
+          "modelName": "glm-4.7",
+          "avgThroughput": null,
+          "avgLatency": 0.25725
+        },
+        {
+          "name": "Kimi K2.5",
+          "modelName": "kimi-k2.5",
+          "avgThroughput": 5.134778292164525,
+          "avgLatency": 0.7708500001430512
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": 25.586413191778647,
+          "avgLatency": 1.133899999976158
+        },
+        {
+          "name": "MiniMax M2.5",
+          "modelName": "minimax-m2.5",
+          "avgThroughput": 6.601623565973375,
+          "avgLatency": 1.6578500000238419
+        },
+        {
+          "name": "DeepSeek V3.2",
+          "modelName": "deepseek-chat",
+          "avgThroughput": 36.64888205078073,
+          "avgLatency": 0.8948500000238419
+        },
+        {
+          "name": "Qwen3 Coder Plus",
+          "modelName": "qwen3-coder-plus",
+          "avgThroughput": null,
+          "avgLatency": 0.2534499999284744
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.1358000000715256
+        },
+        {
+          "name": "DeepSeek v3.2",
+          "modelName": "deepseek-v3.2",
+          "avgThroughput": 39.87116443329842,
+          "avgLatency": 0.5137999999523163
+        },
+        {
+          "name": "Kimi K2 Instruct 0905",
+          "modelName": "kimi-k2-0905",
+          "avgThroughput": null,
+          "avgLatency": 0.21020000004768372
+        }
+      ],
+      "id": "1771119013644"
+    },
+    {
+      "type": "batch",
+      "name": "批量测试",
+      "timestamp": "2026-02-15T01:24:11.904Z",
+      "results": [
+        {
+          "name": "GLM 5",
+          "modelName": "glm-5",
+          "avgThroughput": null,
+          "avgLatency": 1.4828500001430511
+        },
+        {
+          "name": "GLM 4.7",
+          "modelName": "glm-4.7",
+          "avgThroughput": null,
+          "avgLatency": 0.25385000002384184
+        },
+        {
+          "name": "Kimi K2.5",
+          "modelName": "Kimi-k2.5",
+          "avgThroughput": null,
+          "avgLatency": null
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": 24.429004815248703,
+          "avgLatency": 1.325399999976158
+        },
+        {
+          "name": "MiniMax M2.5",
+          "modelName": "minimax-m2.5",
+          "avgThroughput": 2.1658547568527555,
+          "avgLatency": 1.5391000000238417
+        },
+        {
+          "name": "DeepSeek V3.2",
+          "modelName": "deepseek-chat",
+          "avgThroughput": 38.534410245147086,
+          "avgLatency": 0.89925
+        },
+        {
+          "name": "Qwen3 Coder Plus",
+          "modelName": "qwen3-coder-plus",
+          "avgThroughput": null,
+          "avgLatency": 0.193
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.15709999990463258
+        },
+        {
+          "name": "DeepSeek v3.2",
+          "modelName": "deepseek-v3.2",
+          "avgThroughput": 39.85368192055888,
+          "avgLatency": 0.5096999999284744
+        },
+        {
+          "name": "Kimi K2 Instruct 0905",
+          "modelName": "kimi-k2-0905",
+          "avgThroughput": null,
+          "avgLatency": 0.24879999983310697
+        }
+      ],
+      "id": "1771118651904"
+    },
+    {
+      "type": "batch",
+      "name": "批量测试",
+      "timestamp": "2026-02-15T01:08:47.351Z",
+      "results": [
+        {
+          "name": "GLM 5",
+          "modelName": "glm-5",
+          "avgThroughput": null,
+          "avgLatency": 1.3486999999284746
+        },
+        {
+          "name": "GLM 4.7",
+          "modelName": "glm-4.7",
+          "avgThroughput": null,
+          "avgLatency": 6.935399999976158
+        },
+        {
+          "name": "Kimi K2.5",
+          "modelName": "Kimi-K2.5",
+          "avgThroughput": null,
+          "avgLatency": null
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": 22.031868200961874,
+          "avgLatency": 1.996299999952316
+        },
+        {
+          "name": "MiniMax M2.5",
+          "modelName": "minimax-m2.5",
+          "avgThroughput": 4.984310026265719,
+          "avgLatency": 6.326300000071525
+        },
+        {
+          "name": "DeepSeek V3.2",
+          "modelName": "deepseek-chat",
+          "avgThroughput": 42.61615831333826,
+          "avgLatency": 0.8494499999284744
+        },
+        {
+          "name": "Qwen3 Coder Plus",
+          "modelName": "qwen3-coder-plus",
+          "avgThroughput": null,
+          "avgLatency": 0.20335000002384188
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.12449999988079072
+        },
+        {
+          "name": "DeepSeek v3.2",
+          "modelName": "deepseek-v3.2",
+          "avgThroughput": 44.03139003769198,
+          "avgLatency": 0.40419999992847444
+        },
+        {
+          "name": "Kimi K2 Instruct 0905",
+          "modelName": "kimi-k2-0905",
+          "avgThroughput": null,
+          "avgLatency": 0.2141999999284744
+        }
+      ],
+      "id": "1771117727351"
+    },
+    {
+      "type": "batch",
+      "name": "批量测试",
+      "timestamp": "2026-02-15T01:05:18.882Z",
+      "results": [
+        {
+          "name": "GLM 5",
+          "modelName": "glm-5",
+          "avgThroughput": null,
+          "avgLatency": 0.051000000000000004
+        },
+        {
+          "name": "GLM 4.7",
+          "modelName": "glm-4.7",
+          "avgThroughput": null,
+          "avgLatency": 0.009200000047683716
+        },
+        {
+          "name": "Kimi K2.5",
+          "modelName": "Kimi-K2.5",
+          "avgThroughput": null,
+          "avgLatency": 0.00624999988079071
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.005900000095367432
+        },
+        {
+          "name": "MiniMax M2.5",
+          "modelName": "minimax-m2.5",
+          "avgThroughput": 0.2999911581547363,
+          "avgLatency": 10.234349999904632
+        },
+        {
+          "name": "DeepSeek V3.2",
+          "modelName": "deepseek-chat",
+          "avgThroughput": null,
+          "avgLatency": 0.014549999952316284
+        },
+        {
+          "name": "Qwen3 Coder Plus",
+          "modelName": "qwen3-coder-plus",
+          "avgThroughput": null,
+          "avgLatency": 0.005899999976158142
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.0038999999761581425
+        },
+        {
+          "name": "DeepSeek v3.2",
+          "modelName": "deepseek-v3.2",
+          "avgThroughput": null,
+          "avgLatency": 0.005350000023841858
+        },
+        {
+          "name": "Kimi K2 Instruct 0905",
+          "modelName": "kimi-k2-0905",
+          "avgThroughput": null,
+          "avgLatency": 0.007800000071525573
+        }
+      ],
+      "id": "1771117518882"
+    },
+    {
+      "type": "batch",
+      "name": "批量测试",
+      "timestamp": "2026-02-15T01:04:18.496Z",
+      "results": [
+        {
+          "name": "GLM 5",
+          "modelName": "glm-5",
+          "avgThroughput": null,
+          "avgLatency": 0.006799999833106994
+        },
+        {
+          "name": "GLM 4.7",
+          "modelName": "glm-4.7",
+          "avgThroughput": null,
+          "avgLatency": 0.0044500000476837154
+        },
+        {
+          "name": "Kimi K2.5",
+          "modelName": "Kimi-K2.5",
+          "avgThroughput": null,
+          "avgLatency": 0.007399999976158142
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.0048999999761581425
+        },
+        {
+          "name": "MiniMax M2.5",
+          "modelName": "minimax-m2.5",
+          "avgThroughput": 0.42289020078912004,
+          "avgLatency": 10.19849999988079
+        },
+        {
+          "name": "DeepSeek V3.2",
+          "modelName": "deepseek-chat",
+          "avgThroughput": null,
+          "avgLatency": 0.010199999928474427
+        },
+        {
+          "name": "Qwen3 Coder Plus",
+          "modelName": "qwen3-coder-plus",
+          "avgThroughput": null,
+          "avgLatency": 0.00425
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.006950000047683716
+        },
+        {
+          "name": "DeepSeek v3.2",
+          "modelName": "deepseek-v3.2",
+          "avgThroughput": null,
+          "avgLatency": 0.01
+        },
+        {
+          "name": "Kimi K2 Instruct 0905",
+          "modelName": "kimi-k2-0905",
+          "avgThroughput": null,
+          "avgLatency": 0.00825
+        }
+      ],
+      "id": "1771117458496"
+    },
+    {
+      "type": "batch",
+      "name": "批量测试",
+      "timestamp": "2026-02-15T01:01:09.222Z",
+      "results": [
+        {
+          "name": "GLM 5",
+          "modelName": "glm-5",
+          "avgThroughput": null,
+          "avgLatency": 0.006800000071525574
+        },
+        {
+          "name": "GLM 4.7",
+          "modelName": "glm-4.7",
+          "avgThroughput": null,
+          "avgLatency": 0.004649999976158142
+        },
+        {
+          "name": "Kimi K2.5",
+          "modelName": "Kimi-K2.5",
+          "avgThroughput": null,
+          "avgLatency": 0.0048999999761581425
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.004199999928474426
+        },
+        {
+          "name": "MiniMax M2.5",
+          "modelName": "minimax-m2.5",
+          "avgThroughput": 1.2378780337244453,
+          "avgLatency": 8.773049999952317
+        },
+        {
+          "name": "DeepSeek V3.2",
+          "modelName": "deepseek-chat",
+          "avgThroughput": null,
+          "avgLatency": 0.007000000119209289
+        },
+        {
+          "name": "Qwen3 Coder Plus",
+          "modelName": "qwen3-coder-plus",
+          "avgThroughput": null,
+          "avgLatency": 0.006649999976158142
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.006349999904632569
+        },
+        {
+          "name": "DeepSeek v3.2",
+          "modelName": "deepseek-v3.2",
+          "avgThroughput": null,
+          "avgLatency": 0.007049999833106994
+        },
+        {
+          "name": "Kimi K2 Instruct 0905",
+          "modelName": "kimi-k2-0905",
+          "avgThroughput": null,
+          "avgLatency": 0.009899999976158142
+        }
+      ],
+      "id": "1771117269222"
+    },
+    {
+      "type": "batch",
+      "name": "批量测试",
+      "timestamp": "2026-02-15T00:56:11.985Z",
+      "results": [
+        {
+          "name": "GLM 5",
+          "modelName": "glm-5",
+          "avgThroughput": null,
+          "avgLatency": 0.0068500000238418575
+        },
+        {
+          "name": "GLM 4.7",
+          "modelName": "glm-4.7",
+          "avgThroughput": null,
+          "avgLatency": 0.004100000143051148
+        },
+        {
+          "name": "Kimi K2.5",
+          "modelName": "Kimi-K2.5",
+          "avgThroughput": null,
+          "avgLatency": 0.004700000047683716
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.004150000095367432
+        },
+        {
+          "name": "MiniMax M2.5",
+          "modelName": "minimax-m2.5",
+          "avgThroughput": null,
+          "avgLatency": 1.4127499998807906
+        },
+        {
+          "name": "DeepSeek V3.2",
+          "modelName": "deepseek-chat",
+          "avgThroughput": null,
+          "avgLatency": 0.00775000011920929
+        },
+        {
+          "name": "Qwen3 Coder Plus",
+          "modelName": "qwen3-coder-plus",
+          "avgThroughput": null,
+          "avgLatency": 0.006000000119209289
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.004300000071525574
+        },
+        {
+          "name": "DeepSeek v3.2",
+          "modelName": "deepseek-v3.2",
+          "avgThroughput": null,
+          "avgLatency": 0.0038499999046325683
+        },
+        {
+          "name": "Kimi K2 Instruct 0905",
+          "modelName": "kimi-k2-0905",
+          "avgThroughput": null,
+          "avgLatency": 0.003699999809265137
+        }
+      ],
+      "id": "1771116971985"
+    },
+    {
+      "type": "batch",
+      "name": "批量测试",
+      "timestamp": "2026-02-15T00:53:49.312Z",
+      "results": [
+        {
+          "name": "GLM 5",
+          "modelName": "glm-5",
+          "avgThroughput": null,
+          "avgLatency": 0.006699999928474426
+        },
+        {
+          "name": "GLM 4.7",
+          "modelName": "glm-4.7",
+          "avgThroughput": null,
+          "avgLatency": 0.005350000023841858
+        },
+        {
+          "name": "Kimi K2.5",
+          "modelName": "Kimi-K2.5",
+          "avgThroughput": null,
+          "avgLatency": 0.0044500000476837154
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.004449999928474426
+        },
+        {
+          "name": "MiniMax M2.5",
+          "modelName": "minimax-m2.5",
+          "avgThroughput": 4.080791394958998,
+          "avgLatency": 2.9182500000000005
+        },
+        {
+          "name": "DeepSeek V3.2",
+          "modelName": "deepseek-chat",
+          "avgThroughput": null,
+          "avgLatency": 0.0061000000238418586
+        },
+        {
+          "name": "Qwen3 Coder Plus",
+          "modelName": "qwen3-coder-plus",
+          "avgThroughput": null,
+          "avgLatency": 0.004949999928474426
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.0038499999046325683
+        },
+        {
+          "name": "DeepSeek v3.2",
+          "modelName": "deepseek-v3.2",
+          "avgThroughput": null,
+          "avgLatency": 0.004
+        },
+        {
+          "name": "Kimi K2 Instruct 0905",
+          "modelName": "kimi-k2-0905",
+          "avgThroughput": null,
+          "avgLatency": 0.0038999999761581425
+        }
+      ],
+      "id": "1771116829312"
+    },
+    {
+      "type": "batch",
+      "name": "批量测试",
+      "timestamp": "2026-02-15T00:48:58.183Z",
+      "results": [
+        {
+          "name": "GLM 5",
+          "modelName": "glm-5",
+          "avgThroughput": null,
+          "avgLatency": 0.0050999999046325685
+        },
+        {
+          "name": "GLM 4.7",
+          "modelName": "glm-4.7",
+          "avgThroughput": null,
+          "avgLatency": 0.0048999999761581425
+        },
+        {
+          "name": "Kimi K2.5",
+          "modelName": "Kimi-K2.5",
+          "avgThroughput": null,
+          "avgLatency": 0.003950000047683716
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.004049999833106995
+        },
+        {
+          "name": "MiniMax M2.5",
+          "modelName": "minimax-m2.5",
+          "avgThroughput": 2.904481798566233,
+          "avgLatency": 6.92575
+        },
+        {
+          "name": "DeepSeek V3.2",
+          "modelName": "deepseek-chat",
+          "avgThroughput": null,
+          "avgLatency": 0.013400000095367431
+        },
+        {
+          "name": "Qwen3 Coder Plus",
+          "modelName": "qwen3-coder-plus",
+          "avgThroughput": null,
+          "avgLatency": 0.006149999976158142
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.008799999952316284
+        },
+        {
+          "name": "DeepSeek v3.2",
+          "modelName": "deepseek-v3.2",
+          "avgThroughput": null,
+          "avgLatency": 0.010200000047683715
+        },
+        {
+          "name": "Kimi K2 Instruct 0905",
+          "modelName": "kimi-k2-0905",
+          "avgThroughput": null,
+          "avgLatency": 0.004150000095367432
+        }
+      ],
+      "id": "1771116538183"
+    },
+    {
+      "type": "single",
+      "apiUrl": "http://localhost:8317/v1/chat/completions",
+      "modelName": "glm-4.7",
+      "throughputData": {
+        "128_128": 0,
+        "128_256": 0,
+        "128_512": 0.19062219083379017,
+        "128_1024": 1.6144082982224957,
+        "128_2048": 4.145292175923407,
+        "256_128": 0,
+        "256_256": 0,
+        "256_512": 7.376884765060238,
+        "256_1024": 3.2071786746096667,
+        "256_2048": 6.957145630800271,
+        "512_128": 0,
+        "512_256": 5.881453210622371,
+        "512_512": 0.028547122735344054,
+        "512_1024": 4.1920759908793945,
+        "512_2048": 5.187524842913507,
+        "1024_128": 0,
+        "1024_256": 0,
+        "1024_512": 0,
+        "1024_1024": 2.7805074203021434,
+        "1024_2048": 3.926865175162387,
+        "2048_128": 0,
+        "2048_256": 1.5902525966443364,
+        "2048_512": 0,
+        "2048_1024": 4.456003135170079,
+        "2048_2048": 2.5517969722867786
+      },
+      "latencyData": {
+        "128_128": 0.3095499999523163,
+        "128_256": 0.2225500000715256,
+        "128_512": 0.2706000000238419,
+        "128_1024": 0.28880000007152556,
+        "128_2048": 0.21834999990463255,
+        "256_128": 0.23539999997615813,
+        "256_256": 0.2420000001192093,
+        "256_512": 0.2577999999523163,
+        "256_1024": 0.22589999997615814,
+        "256_2048": 0.27020000004768374,
+        "512_128": 0.25905000007152557,
+        "512_256": 0.2797000000476837,
+        "512_512": 0.24195000004768372,
+        "512_1024": 0.26150000011920926,
+        "512_2048": 0.37550000011920925,
+        "1024_128": 0.3237499998807907,
+        "1024_256": 0.2823500000238418,
+        "1024_512": 0.38339999997615815,
+        "1024_1024": 0.33325000000000005,
+        "1024_2048": 0.2513000000715256,
+        "2048_128": 1.343700000166893,
+        "2048_256": 4.869349999904633,
+        "2048_512": 0.37939999997615814,
+        "2048_1024": 0.24770000004768372,
+        "2048_2048": 0.23039999997615815
+      },
+      "avgThroughput": 2.163462328086648,
+      "avgLatency": 0.5041380000209809,
+      "error": false,
+      "id": "1771085728625",
+      "timestamp": "2026-02-14T16:15:28.625Z"
+    },
+    {
+      "type": "batch",
+      "name": "批量测试",
+      "timestamp": "2026-02-14T16:07:52.207Z",
+      "results": [
+        {
+          "name": "GLM 5",
+          "modelName": "glm-5",
+          "avgThroughput": null,
+          "avgLatency": 0.0069500000079472865
+        },
+        {
+          "name": "GLM 4.7",
+          "modelName": "glm-4.7",
+          "avgThroughput": null,
+          "avgLatency": 0.004983333269755045
+        },
+        {
+          "name": "Kimi K2.5",
+          "modelName": "Kimi-K2.5",
+          "avgThroughput": null,
+          "avgLatency": 0.004533333381017049
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.004900000015894572
+        },
+        {
+          "name": "MiniMax M2.5",
+          "modelName": "minimax-m2.5",
+          "avgThroughput": 5.353113460284609,
+          "avgLatency": 2.0659500000476836
+        },
+        {
+          "name": "DeepSeek V3.2",
+          "modelName": "deepseek-chat",
+          "avgThroughput": null,
+          "avgLatency": 0.006433333396911621
+        },
+        {
+          "name": "Qwen3 Coder Plus",
+          "modelName": "qwen3-coder-plus",
+          "avgThroughput": null,
+          "avgLatency": 0.005266666611035665
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": null,
+          "avgLatency": 0.005100000063578288
+        },
+        {
+          "name": "DeepSeek v3.2",
+          "modelName": "deepseek-v3.2",
+          "avgThroughput": null,
+          "avgLatency": 0.005833333333333334
+        },
+        {
+          "name": "Kimi K2 Instruct 0905",
+          "modelName": "kimi-k2-0905",
+          "avgThroughput": null,
+          "avgLatency": 0.00471666665871938
+        }
+      ],
+      "id": "1771085272207"
+    },
+    {
+      "type": "single",
+      "apiUrl": "http://localhost:8317/v1/chat/completions",
+      "modelName": "minimax-m2.5",
+      "throughputData": {
+        "128_128": 0.9429692214846107,
+        "128_256": 7.397202889710941,
+        "128_512": 7.313602645420746,
+        "128_1024": 6.674326682357024,
+        "128_2048": 9.005401543573738,
+        "256_128": 0,
+        "256_256": 0,
+        "256_512": 12.588519870830872,
+        "256_1024": 11.594342122358105,
+        "256_2048": 6.997778667574797,
+        "512_128": 0,
+        "512_256": 0.43429297103817976,
+        "512_512": 6.579956671277767,
+        "512_1024": 3.1371741600731164,
+        "512_2048": 7.394591320665593,
+        "1024_128": 0,
+        "1024_256": 4.5066198078544275,
+        "1024_512": 6.126528809290923,
+        "1024_1024": 7.93294821723871,
+        "1024_2048": 7.489490058100293,
+        "2048_128": 0,
+        "2048_256": 5.24418460563444,
+        "2048_512": 7.313752867795205,
+        "2048_1024": 14.822350000713772,
+        "2048_2048": 2.1701488082464646
+      },
+      "latencyData": {
+        "128_128": 3.0970500000715253,
+        "128_256": 2.046399999976158,
+        "128_512": 0.9592499999999999,
+        "128_1024": 1.5910499999523162,
+        "128_2048": 1.8088500000238419,
+        "256_128": 1.6440500000715255,
+        "256_256": 1.8013500000238418,
+        "256_512": 1.75475,
+        "256_1024": 1.6407500000000002,
+        "256_2048": 2.48,
+        "512_128": 1.2077000000476836,
+        "512_256": 5.965300000071526,
+        "512_512": 1.1643500000238418,
+        "512_1024": 2.5845499999523165,
+        "512_2048": 1.8172000000476838,
+        "1024_128": 1.2344499999284744,
+        "1024_256": 1.2122000000476838,
+        "1024_512": 1.7491000000238417,
+        "1024_1024": 1.1871999999284744,
+        "1024_2048": 0.9640500000715255,
+        "2048_128": 1.941950000166893,
+        "2048_256": 1.0810500000715257,
+        "2048_512": 1.0528000000715254,
+        "2048_1024": 1.1314500000476837,
+        "2048_2048": 6.125399999976159
+      },
+      "avgThroughput": 5.42664727764959,
+      "avgLatency": 1.9696900000238418,
+      "error": false,
+      "id": "1771084879069",
+      "timestamp": "2026-02-14T16:01:19.069Z"
+    },
+    {
+      "type": "batch",
+      "name": "批量测试",
+      "timestamp": "2026-02-14T15:54:14.362Z",
+      "results": [
+        {
+          "name": "GLM 4.7",
+          "modelName": "glm-4.7",
+          "avgThroughput": null,
+          "avgLatency": 0.007399999936421713
+        },
+        {
+          "name": "MiniMax M2.5",
+          "modelName": "minimax-m2.5",
+          "avgThroughput": 4.692911170227758,
+          "avgLatency": 2.883133333404859
+        }
+      ],
+      "id": "1771084454362"
+    },
+    {
+      "type": "single",
+      "apiUrl": "https://apis.iflow.cn/v1/chat/completions",
+      "modelName": "qwen3-max",
+      "throughputData": {
+        "128_128": 0,
+        "128_256": 0,
+        "128_512": 0,
+        "128_1024": 0,
+        "128_2048": 0,
+        "256_128": 0,
+        "256_256": 0,
+        "256_512": 0,
+        "256_1024": 0,
+        "256_2048": 0,
+        "512_128": 0,
+        "512_256": 0,
+        "512_512": 0,
+        "512_1024": 0,
+        "512_2048": 0,
+        "1024_128": 0,
+        "1024_256": 0,
+        "1024_512": 0,
+        "1024_1024": 0,
+        "1024_2048": 0,
+        "2048_128": 0,
+        "2048_256": 0,
+        "2048_512": 0,
+        "2048_1024": 0,
+        "2048_2048": 0
+      },
+      "latencyData": {
+        "128_128": 0.16375,
+        "128_256": 0.0995,
+        "128_512": 0.09775,
+        "128_1024": 0.10175000000000001,
+        "128_2048": 0.10025,
+        "256_128": 0.1,
+        "256_256": 0.10564999997615815,
+        "256_512": 0.10009999990463257,
+        "256_1024": 0.10360000002384186,
+        "256_2048": 0.10235000002384186,
+        "512_128": 0.10380000007152558,
+        "512_256": 0.09780000007152556,
+        "512_512": 0.10270000004768372,
+        "512_1024": 0.10220000004768372,
+        "512_2048": 0.10425000000000001,
+        "1024_128": 0.10069999992847442,
+        "1024_256": 0.10614999997615815,
+        "1024_512": 0.10689999997615815,
+        "1024_1024": 0.10164999997615815,
+        "1024_2048": 0.10414999997615815,
+        "2048_128": 0.10080000007152558,
+        "2048_256": 0.09985000002384187,
+        "2048_512": 0.10070000004768372,
+        "2048_1024": 0.1027000000476837,
+        "2048_2048": 0.10095000004768372
+      },
+      "avgThroughput": 0,
+      "avgLatency": 0.10440000000953673,
+      "error": false,
+      "id": "1771080310144",
+      "timestamp": "2026-02-14T14:45:10.144Z"
+    },
+    {
+      "type": "batch",
+      "name": "批量测试 - 2026/2/14 21:34:32",
+      "timestamp": "2026-02-14T13:35:44.530Z",
+      "results": [
+        {
+          "name": "Kimi K2.5",
+          "modelName": "Kimi-K2.5",
+          "avgThroughput": null,
+          "avgLatency": null
+        },
+        {
+          "name": "QWen3 Max",
+          "modelName": "qwen3-max",
+          "avgThroughput": 17.867942771623575,
+          "avgLatency": 1.5637499998807907
+        }
+      ],
+      "id": "1771076144530"
+    },
+    {
+      "type": "single",
+      "apiUrl": "http://localhost:8317/v1/chat/completions",
+      "modelName": "deepseek-v3.2",
+      "throughputData": {
+        "128_128": 31.484703535190604,
+        "128_256": 38.97023535134505,
+        "128_512": 41.72407314337582,
+        "128_1024": 38.544302983675905,
+        "128_2048": 38.00069162779285,
+        "256_128": 43.35324356630295,
+        "256_256": 34.68241003527227,
+        "256_512": 38.06542504911668,
+        "256_1024": 30.58820418613564,
+        "256_2048": 34.889418500241185,
+        "512_128": 41.59377145135055,
+        "512_256": 41.44598206551032,
+        "512_512": 43.18528561108399,
+        "512_1024": 39.13716477439756,
+        "512_2048": 45.75345256295196,
+        "1024_128": 46.18418116713001,
+        "1024_256": 35.954666732352905,
+        "1024_512": 40.714217540370115,
+        "1024_1024": 39.919732366791735,
+        "1024_2048": 41.66580369758444,
+        "2048_128": 36.461947644463734,
+        "2048_256": 34.78558467939113,
+        "2048_512": 40.429516631967815,
+        "2048_1024": 32.32022373658047,
+        "2048_2048": 37.82433828003642
+      },
+      "latencyData": {
+        "128_128": 0.4747999999523163,
+        "128_256": 0.3459499999284744,
+        "128_512": 0.6080499999523163,
+        "128_1024": 0.43445000004768375,
+        "128_2048": 0.386,
+        "256_128": 0.40039999997615816,
+        "256_256": 0.6302000000476837,
+        "256_512": 0.42135000014305113,
+        "256_1024": 1.13,
+        "256_2048": 0.6281999999284744,
+        "512_128": 0.47844999980926517,
+        "512_256": 0.4054499999284744,
+        "512_512": 0.5517999999523163,
+        "512_1024": 0.35180000007152556,
+        "512_2048": 0.3836000001430512,
+        "1024_128": 0.3902999999523163,
+        "1024_256": 0.7009500000476837,
+        "1024_512": 0.36169999992847446,
+        "1024_1024": 0.4112499998807907,
+        "1024_2048": 0.3524999998807907,
+        "2048_128": 0.49175,
+        "2048_256": 0.4678500000238419,
+        "2048_512": 0.6215500000715255,
+        "2048_1024": 1.0503499999046326,
+        "2048_2048": 0.3801999999284744
+      },
+      "avgThroughput": 38.70714307681649,
+      "avgLatency": 0.5143559999799728,
+      "error": false,
+      "id": "1771060616843",
+      "timestamp": "2026-02-14T09:16:56.843Z"
+    },
+    {
+      "type": "single",
+      "apiUrl": "https://api.deepseek.com/v1/chat/completions",
+      "modelName": "deepseek-chat",
+      "throughputData": {
+        "128_128": 32.31894810088013,
+        "128_256": 33.06595296694758,
+        "128_512": 31.18581260480353,
+        "128_1024": 36.93991905360321,
+        "128_2048": 38.47492700922869,
+        "256_128": 35.914583812877055,
+        "256_256": 30.33292412266001,
+        "256_512": 37.038109051220424,
+        "256_1024": 31.982831451720596,
+        "256_2048": 31.713161880540753,
+        "512_128": 37.58664010980566,
+        "512_256": 37.713506661606544,
+        "512_512": 41.32026522719703,
+        "512_1024": 39.3153903984282,
+        "512_2048": 38.72573386032521,
+        "1024_128": 40.561321824913634,
+        "1024_256": 39.36952919337503,
+        "1024_512": 36.67551320924406,
+        "1024_1024": 37.48486588889463,
+        "1024_2048": 37.20798849640763,
+        "2048_128": 32.742985559597244,
+        "2048_256": 31.48045431752206,
+        "2048_512": 31.73666483407565,
+        "2048_1024": 35.89410813180578,
+        "2048_2048": 36.90435305324715
+      },
+      "latencyData": {
+        "128_128": 1.0304500000476837,
+        "128_256": 1.0885999999046327,
+        "128_512": 1.094850000023842,
+        "128_1024": 0.837,
+        "128_2048": 0.7089500000476837,
+        "256_128": 0.8996999999284745,
+        "256_256": 0.8996000000238419,
+        "256_512": 0.9339999998807906,
+        "256_1024": 0.7613999999761581,
+        "256_2048": 1.0048500000238418,
+        "512_128": 0.8539500000476837,
+        "512_256": 0.8866500000953674,
+        "512_512": 0.7878500000238419,
+        "512_1024": 1.0012499998807907,
+        "512_2048": 0.94675,
+        "1024_128": 0.9178999999761581,
+        "1024_256": 0.8525000001192093,
+        "1024_512": 0.9587500001192093,
+        "1024_1024": 1.0738500000238418,
+        "1024_2048": 1.043399999976158,
+        "2048_128": 1.4191499999761583,
+        "2048_256": 1.1320499999523164,
+        "2048_512": 1.2255,
+        "2048_1024": 1.0773000000715256,
+        "2048_2048": 0.968899999976158
+      },
+      "avgThroughput": 35.747459632837106,
+      "avgLatency": 0.9762060000038146,
+      "error": false,
+      "id": "1771056944748",
+      "timestamp": "2026-02-14T08:15:44.749Z"
+    },
+    {
+      "type": "batch",
+      "name": "批量测试 - 2026/2/14 13:21:41",
+      "timestamp": "2026-02-14T05:23:14.544Z",
+      "results": [
+        {
+          "name": "GLM 5",
+          "modelName": "glm-5",
+          "avgThroughput": null,
+          "avgLatency": 0.9565
+        },
+        {
+          "name": "GLM 4.7",
+          "modelName": "glm-4.7",
+          "avgThroughput": null,
+          "avgLatency": 0.235
+        }
+      ],
+      "id": "1771046594544"
+    }
+  ]
+}
